@@ -1,6 +1,6 @@
 # MIT GSL Ghana Landing Page
 
-Fork this repository and deploy your own websites for your team with [Github Pages](https://help.github.com/en/categories/github-pages-basics)!
+Fork this repository and deploy your own websites for your team with [Github Pages](https://help.github.com/en/categories/github-pages-basics)! Read more about the Git version control system [here](https://guides.github.com/activities/hello-world/).
 
 0. Try out the template demo site [here](https://kevinshum.github.io/MIT-GSL-Ghana-Landing-Page/)
 1. Fork this repositor
